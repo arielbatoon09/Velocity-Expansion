@@ -4,7 +4,7 @@ Fast, optimized expansion for getting player counts from Velocity proxy.
 
 ## ✨ Features
 
-- ⚡ **Ultra-fast updates** - 3 second default (configurable down to 1s)
+- ⚡ **Ultra-fast updates** - 10 second default (configurable down to 1s)
 - 🚀 **Instant startup** - Starts checking in 1 tick (0.05 seconds)
 - 🔧 **Folia-compatible** - Auto-detects and uses appropriate scheduler
 - 💾 **Instant result** - Always shows real-time counts
@@ -33,6 +33,7 @@ Fast, optimized expansion for getting player counts from Velocity proxy.
 ## 🚀 Why This Expansion?
 
 - ✅ Clean, production-ready code
+- ✅ Lightweight
 - ✅ Folia-compatible with auto-detection
 - ✅ Minimal logging overhead
 - ✅ Optimized for Velocity modern mode
